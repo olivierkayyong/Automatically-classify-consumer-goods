@@ -1,5 +1,5 @@
 # Automatically classify consumer goods
-You are a Data Scientist in the company "Place de marché", which wishes to launch an e-commerce marketplace.
+You are a Data Scientist in the company "Place de marché", which wants to launch an e-commerce marketplace.
 
 <img src="img.png">
 
